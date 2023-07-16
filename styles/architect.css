@@ -13,6 +13,12 @@
     color: #727272;
 }
 
+.section-title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #131313;
+}
+
 .btn-primary {
     border: 0;
     border-radius: 8px;
@@ -36,11 +42,7 @@ nav {
     align-items: center;
 }
 
-.nav-title {
-    font-size: 3rem;
-    font-weight: 700;
-    color: #131313;
-}
+
 
 nav>ul {
     display: flex;
